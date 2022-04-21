@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"new: ", "sb packages",	5,	0},
 	{"vol: ", "sb volume",			2,	10},
 	{"bat: ", "sb battery",		5,	0},
-	{"mem: ", "sb ram",			3,	0},
+	{"ram: ", "sb ram",			3,	0},
 	{"cpu: ", "sb cpu",			5,	0},
 	{"","sb datetime",				15,	0},
 };
